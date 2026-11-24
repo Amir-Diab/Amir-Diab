@@ -1,16 +1,20 @@
-## Hi there 👋
+# Account Archived
 
-<!--
-**Amir-Diab/Amir-Diab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is no longer maintained.
 
-Here are some ideas to get you started:
+I have consolidated my professional GitHub presence and portfolio under my new official account:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [MHD-Amir-Diab](https://github.com/MHD-Amir-Diab)
+
+My recent portfolio projects are now available there:
+
+- **[LoadOptimizer](https://github.com/MHD-Amir-Diab/LoadOptimizer)** — C#/.NET algorithm implementation, software architecture, and performance benchmarking.
+- **[PixelForge](https://github.com/MHD-Amir-Diab/PixelForge)** — .NET performance, memory management, and asynchronous programming.
+
+All repositories previously hosted under this account have been transferred to my new account.
+
+For my latest projects, technical work, and professional activity, please visit:
+
+**[github.com/MHD-Amir-Diab](https://github.com/MHD-Amir-Diab)**
+
+Thank you for visiting.
